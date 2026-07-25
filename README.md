@@ -1,2 +1,3 @@
 # c-programs
-my first year c programing code
+my C programs of my clg and practicals.
+
